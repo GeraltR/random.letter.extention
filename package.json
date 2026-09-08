@@ -42,7 +42,7 @@
       {
         "command": "randomLetterAnonymizer.randomize",
         "key": "ctrl+r",
-        "mac": "ctrl+r",
+        "mac": "cmd+r",
         "when": "editorTextFocus && editorHasSelection"
       }
     ]
