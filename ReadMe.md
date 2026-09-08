@@ -7,6 +7,13 @@ Zaznacz fragment tekstu (np. nazwisko, imię, nazwę użytkownika) i uruchom pol
 zamieniona na losową literę tej samej wielkości. Polskie znaki (ą, ć, ę, ł, ń, ó, ś, ź, ż)
 są uwzględniane. Cyfry, spacje i znaki interpunkcyjne pozostają bez zmian.
 
+## Instalacja
+
+1. Pobrać całość z github lub tylko plik vsix
+2. W VSC nacisnąć: Cmd+Shift+P
+3. Wpisać Extensions: Install from VSIX
+4. Wskazać pobrany plik .vsix
+
 ## Użycie
 
 1. Zaznacz tekst w edytorze.
