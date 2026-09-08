@@ -2,8 +2,8 @@
   "name": "random-letter-anonymizer",
   "displayName": "Random Letter Anonymizer",
   "description": "Zamienia zaznaczone litery (w tym polskie znaki) na losowe – szybka anonimizacja np. nazwisk w tekście.",
-  "version": "0.0.1",
-  "publisher": "sielata",
+  "version": "0.0.2",
+  "publisher": "pawelm",
   "license": "MIT",
   "engines": {
     "vscode": "^1.85.0"
@@ -41,7 +41,7 @@
     "keybindings": [
       {
         "command": "randomLetterAnonymizer.randomize",
-        "key": "ctrl+r",
+        "key": "ctrl+m",
         "mac": "cmd+r",
         "when": "editorTextFocus && editorHasSelection"
       }
@@ -49,6 +49,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/PawelM/random-letter-anonymizer"
+    "url": "https://github.com/GeraltR/random.letter.extention.git"
   }
 }

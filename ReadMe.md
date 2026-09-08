@@ -18,7 +18,7 @@ są uwzględniane. Cyfry, spacje i znaki interpunkcyjne pozostają bez zmian.
 
 1. Zaznacz tekst w edytorze.
 2. Kliknij prawym przyciskiem myszy i wybierz **Anonimizuj zaznaczenie (losowe litery)**,
-   użyj Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`), albo naciśnij na windows `Shift+Ctrl+M` na mac 'Shift+command+M'.
+   użyj Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`), albo naciśnij na windows `Ctrl+M` na mac 'cmd+R'.
 
 Przykład: `Kowalski` → `Śmzćeufń`
 
